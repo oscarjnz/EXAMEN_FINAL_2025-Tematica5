@@ -1,11 +1,11 @@
-# 📈 Exponential Equation Finder
+# Exponential Equation Finder
 
 **Temática 5 - Análisis y Diseño de Algoritmos**  
 Proyecto Web desarrollado por **Oscar O. Jiménez Peguero - 24-0531**
 
 ---
 
-## 🧠 Descripción
+## Descripción
 
 **Exponential Equation Finder** es una aplicación interactiva en la web que permite ingresar múltiples grupos de números, procesarlos mediante lógica condicional y algoritmos de búsqueda y ordenamiento, y detectar **ecuaciones exponenciales válidas** en base a una condición aritmética. 
 
@@ -17,7 +17,7 @@ El proyecto aplica conceptos clave como:
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -25,9 +25,9 @@ El proyecto aplica conceptos clave como:
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 
-1. Abre el archivo `index.html` en tu navegador preferido.
+1. Abre el archivo `webVersion.html` en tu navegador preferido.
 2. Ingresa la cantidad de grupos de números (cada grupo contiene 6 valores).
 3. Haz clic en **"Create Input Fields"** y completa los campos con números enteros.
 4. Pulsa **"Submit Groups"** para procesar los datos.
@@ -40,7 +40,7 @@ El proyecto aplica conceptos clave como:
 
 ---
 
-## 📊 Estructura Interna del Código
+## Estructura Interna del Código
 
 - **Algoritmos implementados**:
   - `encontrar_exponente_iterativa(base, resultado)`
@@ -52,12 +52,12 @@ El proyecto aplica conceptos clave como:
 
 ---
 
-## 🧪 Ejemplo de ejecución
+## Ejemplo de ejecución
 
 ```text
-Grupo: [2, 8, 1, 1, 1, 0]
+Grupo: [2, 4, 6, 8, 10, 12]
 → Condición válida.
-→ Se genera: 2^3 = 8
+→ Se genera: 2^2 = 4
 
 Ordenados: 8  
 Buscar: 8  
