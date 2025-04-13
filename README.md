@@ -59,6 +59,6 @@ Grupo: [2, 4, 6, 8, 10, 12]
 → Condición válida.
 → Se genera: 2^2 = 4
 
-Ordenados: 8  
-Buscar: 8  
+Ordenados: 4  
+Buscar: 4  
 → Encontrado en posición 0.
